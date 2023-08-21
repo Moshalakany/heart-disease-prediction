@@ -1,5 +1,5 @@
 <center>
-<p> "<h1># heart-disease-prediction</h1></p>
+<p> <h1># heart-disease-prediction</h1></p>
 </center>
 <h3>this project in artificial intelligence that help you to predict weather you have aheart disease or not</h3>
 1) Preprocessing:<br>
