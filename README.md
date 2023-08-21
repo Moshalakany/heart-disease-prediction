@@ -1,3 +1,4 @@
+<img src="https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/11/Machine-Learning-Project-on-Heart-Disease-Prediction.png?fit=1280%2C720&ssl=1" alt="This is an image">
 <center>
 <p> <h1># heart-disease-prediction</h1></p>
 </center>
