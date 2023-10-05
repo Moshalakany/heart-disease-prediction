@@ -4,7 +4,7 @@
 # <a href="https://colab.research.google.com/github/Moshalakany/heart-disease-prediction/blob/main/heart_disease_predection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # In[106]:
-
+# colab link-->"https://colab.research.google.com/github/Moshalakany/heart-disease-prediction/blob/main/heart_disease_predection.ipynb"
 
 import numpy as np
 import matplotlib.pyplot as plt
